@@ -1,4 +1,7 @@
-# api documentation for  [gulp-umd (v0.2.1)](https://github.com/eduardolundgren/gulp-umd#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-umd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-umd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-umd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-umd)
+# npmdoc-gulp-umd
+
+#### basic api documentation for  [gulp-umd (v0.2.1)](https://github.com/eduardolundgren/gulp-umd#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-umd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-umd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-umd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-umd)
+
 #### Gulp plugin for build JavaScript files as Universal Module Definition, aka UMD.
 
 [![NPM](https://nodei.co/npm/gulp-umd.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-umd)
@@ -68,7 +71,8 @@
     "scripts": {
         "test": "nodeunit test/test.js"
     },
-    "version": "0.2.1"
+    "version": "0.2.1",
+    "bin": {}
 }
 ```
 
